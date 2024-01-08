@@ -12,7 +12,7 @@ Office Hours:
 
 Contact:
 
-* [Piazza](piazza.com/gvsu/winter2024/cis161/home) **preferred**
+* [Piazza](https://www.piazza.com/gvsu/winter2024/cis161/home) **preferred**
 * [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Piazza
 
 ## Course Description
