@@ -22,7 +22,7 @@ schedule are tentative and subject to change.
 
 | Week | Date          | Topics | Special Notes | Activity |
 | ---- | ------------- | ------ | --------- | ------- |
-|  01  | 01/08 - 01/12 | [introduction, variables, operators, expressions](https://us.prairielearn.com/pl/course_instance/147662/assessment/2388458) |  [Course Entry Survey](https://forms.gle/dgpgdkDonQvKWsEJA) | [week 1 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2388457) <br> week 1 lab |
+|  01  | 01/08 - 01/12 | [introduction, variables, operators, expressions](https://us.prairielearn.com/pl/course_instance/147662/assessment/2388458) |  [Course Entry Survey](https://forms.gle/dgpgdkDonQvKWsEJA) | [week 1 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2388457) <br> [week 1 lab](https://us.prairielearn.com/pl/course_instance/147662) |
 |  02  | 01/15 - 01/19 | no class 01/15 (MLK day) <br> notebooks and comments, functions |  | week 2 activity <br> week 2 lab |
 |  03  | 01/22 - 01/26 | conditionals, math, built-in functions | | week 3 activity <br> week 3 lab |
 |  04  | 01/29 - 02/02 | iteration | project ideas due | week4 activity <br> week 4 lab |
