@@ -31,8 +31,8 @@ schedule are tentative and subject to change.
 |  07  | 02/19 - 02/23 | [references, strings](https://us.prairielearn.com/pl/course_instance/147662/assessment/2399778) | | [week 7 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2399777) <br> [week 7 lab](https://us.prairielearn.com/pl/course_instance/147662/assessment/2401959) |
 |  08  | 02/26 - 03/01 | [random module with lists, files](https://us.prairielearn.com/pl/course_instance/147662/assessment/2401960) | | [week 8 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2401958) <br> [week 8 lab](https://us.prairielearn.com/pl/course_instance/147662/assessment/2403840) |
 |  09  | 03/04 - 03/08 | no class (spring break) | | |
-|  10  | 03/11 - 03/15 | [tuples](https://us.prairielearn.com/pl/course_instance/147662/assessment/2403842) |  | [week 9 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2403841) <br> week 9 lab |
-|  11  | 03/18 - 03/22 | dictionaries | project check-in due Sunday, March 27 @ 11:59pm  | week10 activity |
+|  10  | 03/11 - 03/15 | [tuples](https://us.prairielearn.com/pl/course_instance/147662/assessment/2403842) |  | [week 9 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2403841) <br> [week 9 lab](https://us.prairielearn.com/pl/course_instance/147662/assessment/2406971) |
+|  11  | 03/18 - 03/22 | [dictionaries](https://us.prairielearn.com/pl/course_instance/147662/assessment/2407038) | [project check-in](https://us.prairielearn.com/pl/course_instance/147662/assessment/2407040) due Sunday, March 24 @ 11:59pm  | [week10 activity](https://us.prairielearn.com/pl/course_instance/147662/assessment/2407037) <br> [week10 lab](https://us.prairielearn.com/pl/course_instance/147662/assessment/2407039) |
 |  12  | 03/25 - 03/29 | visualization (matplotlib) | Exam 2 (Monday and Wednesday) | week11 lab |
 |  13  | 04/01 - 04/05 | numpy |  | week12 activity <br> lab12 |
 |  14  | 04/08 - 04/12 | csv module, error in computational science, numpy wrap-up | | |
